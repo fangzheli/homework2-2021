@@ -11,7 +11,7 @@ h1, h3, h4, h5, h6, blockquote, pre,
 abbr, address, cite, code,
 del, dfn, em, ins, kbd, q, samp,
 small, strong, sub, sup, var,
-b, i,
+b, i,footer,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
@@ -92,8 +92,7 @@ body {
 
 footer p{
     text-align: center;
-    padding-bottom: 10px;
-    padding-right: 10px;
+    padding: 0px 10px 0px 10px;
 }
 
 article,aside,details,figcaption,figure,
